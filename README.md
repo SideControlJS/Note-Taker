@@ -1,6 +1,8 @@
 # Note-Taker
 
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/SideControlJS/Note-Taker?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/SideControlJS/Note-Taker?style=flat&logo=appveyor)
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/SideControlJS/Note-Taker?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/SideControlJS/Note-Taker?style=flat&logo=appveyor) ![GitHub](https://img.shields.io/github/license/SideControlJS/Note-Taker) ![GitHub followers](https://img.shields.io/github/followers/SideControlJS?style=social)
+
+
 
 ## Description 
 
