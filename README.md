@@ -2,8 +2,6 @@
 
 ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/SideControlJS/Note-Taker?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/SideControlJS/Note-Taker?style=flat&logo=appveyor)
 
-Check out the badges hosted by [shields.io](https://shields.io/).
-
 ## Description 
 
 Note-Taker is a simple application that allows users to write, save, and delete notes. It's designed for those who need to keep track of important information and access it on the go.
