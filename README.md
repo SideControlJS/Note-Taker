@@ -8,7 +8,7 @@
 
 Note-Taker is a simple application that allows users to write, save, and delete notes. It's designed for those who need to keep track of important information and access it on the go.
 
-- Link to Deployed App: [Note-Taker](https://jl-note-taker-bdab7ee7b58b.herokuapp.com/notes)
+- Link to Deployed App: [Note-Taker](https://jl-note-taker-bdab7ee7b58b.herokuapp.com)
 
 **Features**:
 * Add new notes with title and content
