@@ -6,7 +6,7 @@ Check out the badges hosted by [shields.io](https://shields.io/).
 
 ## Description 
 
-Note-Taker is a simple, fast, and reliable application that allows users to write, save, and delete notes. It's designed for those who need to keep track of important information and access it on the go.
+Note-Taker is a simple application that allows users to write, save, and delete notes. It's designed for those who need to keep track of important information and access it on the go.
 
 **Features**:
 * Add new notes with title and content
@@ -18,7 +18,6 @@ Note-Taker is a simple, fast, and reliable application that allows users to writ
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
@@ -37,10 +36,6 @@ Once the server is running, navigate to `http://localhost:3000` in your browser.
 
 ![Product Screenshot](/Assets/sn_notes.png)
 
-## Contributing
-
-Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
 ## Tests
 
 Currently, there are no tests for this project. 
@@ -53,7 +48,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 For any questions, please contact me with the information below:
 
-- GitHub Profile: [Your-Username](https://github.com/Your-Username/)
-- Email: your-email@example.com
+- GitHub Profile: [SideControlJS](https://github.com/SideControlJS/)
+
 
 
