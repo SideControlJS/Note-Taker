@@ -54,3 +54,16 @@ app.delete('/api/notes/:id', (req, res) => {
     });
 });
 
+//HTML Routes
+app.get('/notes', (req, res) => {
+    res.sendFile(path.join(__dirname, '/public/notes.html'));
+});
+
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '/public/index.html'));
+});
+
+//Start the server
+app.listen(PORT, () => {
+    console.log(`Server is listening on PORT ${PORT}`);
+});
