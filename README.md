@@ -1,6 +1,6 @@
 # Note-Taker
 
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/SideControlJS/https://Note-Taker?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/SideControlJS/Note-Taker?style=flat&logo=appveyor)
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/SideControlJS/Note-Taker?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/SideControlJS/Note-Taker?style=flat&logo=appveyor)
 
 Check out the badges hosted by [shields.io](https://shields.io/).
 
