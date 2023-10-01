@@ -13,7 +13,7 @@ app.use(express.static('public'));
 //API routes
 //GET all notes
 app.get('/api/notes', (req, res) => {
-    fs.readFile(path.json(__dirname, '/db/db.json'), 'utf8', (error, data) => {
+    fs.readFile(path.join(__dirname, '/db/db.json'), 'utf8', (error, data) => {
        if (error) {
         return res.status(500).json(error);
        } 
@@ -24,7 +24,7 @@ app.get('/api/notes', (req, res) => {
 //POST a new note
 app.post('/api/notes', (req, res) => {
     const newNote = req.body;
-    fs.readFile(path.json(__dirname, '/db/db.json'), 'utf8', (error, data) => {
+    fs.readFile(path.join(__dirname, '/db/db.json'), 'utf8', (error, data) => {
         if (error) {
             return res.status(500).json(error);
         }
@@ -49,7 +49,7 @@ app.delete('/api/notes/:id', (req, res) => {
         notes = notes.filter(note => note.id !== noteId);
         fs.writeFile(path.join(__dirname, '/db/db.json'), JSON.stringify(notes, null, 4), (err) => {
             if (err) return res.status(500).json(err);
-            res.join({ msg: `Deleted note with id: ${noteId}` });
+            res.json({ msg: `Deleted note with id: ${noteId}` });
         });
     });
 });
