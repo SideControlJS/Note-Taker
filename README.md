@@ -21,6 +21,7 @@ Note-Taker is a simple application that allows users to write, save, and delete 
 - [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
+- [Reference](#reference)
 
 ## Installation
 
@@ -49,6 +50,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 For any questions, please contact me with the information below:
 
 - GitHub Profile: [SideControlJS](https://github.com/SideControlJS/)
+
+## Reference
+
+Screenshot of local repo/code source:
+![Note-Taker-Local-Repo](/Assets/sn_local_repo.png)
 
 
 
